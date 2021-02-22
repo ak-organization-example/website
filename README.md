@@ -11,3 +11,7 @@ This is just a readme file
 ##purpose
 
 Updating the tags
+
+## Getting Started
+
+'clone' the repo to get started
